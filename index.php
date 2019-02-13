@@ -7,6 +7,11 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <?php 
+        for ($i=0; $i <5 ; $i++) { 
+            # code...
+            echo("for echo i");
+        }
+    ?>
 </body>
 </html>
