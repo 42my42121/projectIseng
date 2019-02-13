@@ -11,6 +11,7 @@
         for ($i=0; $i <5 ; $i++) { 
             # code...
             echo("for echo i");
+            echo("hello world");
         }
     ?>
 </body>
